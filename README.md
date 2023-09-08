@@ -1,7 +1,5 @@
 # ECTA Whitepaper
 
-Table of contents:
-
 ## Introduction
 
  Research shows that approximately 76% of retail investors who enter financial markets with limited knowledge incur losses. Therefore, there is an interest among investors to collaborate with professional traders and financial experts to experience profitable investments. However, distrust, lack of transparency, complex financial calculations, and numerous other issues exist in the interactions between investors and financial experts, creating concerns for both parties.
