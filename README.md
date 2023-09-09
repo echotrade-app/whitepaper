@@ -27,7 +27,7 @@ EchoTrade is a platform where users can:
 
 - Share their insights, opinions, and predictions with other users
 - Create and join trading groups and pools to collaborate and pool resources
-- Earn rewards for contributing with the platform by stacking ECTA tokens.
+- Earn rewards for contributing with the platform by locking ECTA tokens.
 
 EchoTrade leverages blockchain technology to enable trustless and instant transactions between investors and traders.
 EchoTrade’s smart contracts ensure that both investors and traders are protected from fraud, default, or dispute. EchoTrade’s smart contracts also ensure that both investors and traders are rewarded for their participation and contribution. EchoTrade’s smart contracts automatically execute the following functions:
@@ -154,14 +154,14 @@ The initial distribution of ECTA tokens includes various stakeholders such as in
 
 The distribution of ECTA tokens is divided among different entities as follows:
 
-| Type       | Share | Escrowed                                |
-| ---------- | ----- | ------------------------------------- |
-| Investors  | 25%   | true (6 months lock, 2-year vesting) |
-| Company    | 20%   | true (6 months lock, 2-year vesting) |
-| Team       | 12%   | true (0 months lock, 2.5-year vesting) |
-| Liquidity  | 15%   | true (6 months lock, 2-year vesting) |
-| Treasury   | 15%   | true (6 months lock, 2-year vesting) |
-| Capital    | 13%   | false                                 |
+| Type                            | Share | Cliff    | Vesting   |
+| ------------------------------- | ----- | -------- | --------- |
+| Strategic Investors and Advisor | 25%   | 6 month  | 2 years   |
+| Foundation                       | 20%   | 6 month  | 2 years   |
+| Team                            | 12%   | \-       | 2.5 years |
+| Liquidity                       | 18%   | \-       | \-        |
+| Treasury                        | 15%   | \-       | 2 years   |
+| Strategic reserved              | 10%   | 6 months | 2 years   |
 
 #### Entities
 
@@ -169,11 +169,11 @@ The distribution of ECTA tokens is divided among different entities as follows:
 
 Strategic Investors play a crucial role in seeding the project from its early stages to the final phase. The accounts of investors will be locked for liquidity management purposes. The unlocking process will commence after 6 months from the token release, and it will take two years to fully unlock the invested funds. This logic is integrated into the main ECTA contract.
 
-##### Company
+##### Foundation
 
-EchoTrade operates as a hybrid platform, combining both centralized and decentralized elements. The company provides the necessary requirements and infrastructure for the platform to be profitable and valuable. The main source of income for the company comes from holding the ECTA token and participating in the Fair Profit Sharing System implemented in the Basket and ECTA contracts.
+EchoTrade operates as a hybrid platform, combining both centralized and decentralized elements. The Foundation provides the necessary requirements and infrastructure for the platform to be profitable and valuable. The main source of income for the Foundation comes from holding the ECTA token and participating in the Fair Profit Sharing System implemented in the Basket and ECTA contracts.
 
-The current candidate representing the company is IRIS DIGITAL VENTURES LTD, based in London, UK. Detailed insights into the company's strategies for platform profitability can be found on the company's website and blogs.
+The current candidate representing the Foundation is IRIS DIGITAL VENTURES LTD, based in London, UK. Detailed insights into the company's strategies for platform profitability can be found on the company's website and blogs.
 
 ##### Team
 
@@ -188,7 +188,8 @@ A skilled and experienced team is vital for the success of EchoTrade. This share
 
 ##### Liquidity
 
-Liquidity is earmarked to manage and control the price of the ECTA token in the market. This multi-signature account is controlled by the Board of Directors, CEO, CTO, Exclusive Advisors, and Initial Investors. Liquidity funds are initially locked and are released in a phased manner, starting 6 months after the token release over a two-year period. Profits generated from liquidity can be reinvested to purchase ECTA tokens, thereby increasing the liquidity pool.
+Liquidity plays a pivotal role in actively managing and regulating the market price of the ECTA token. The custody of these liquidity reserves is vested in a multi-signature account, which is overseen collectively by the Board of Directors, CEO, CTO, Exclusive Advisors, and Initial Investors.
+The returns yielded from the liquidity pool can be strategically reinvested in the acquisition of ECTA tokens, thereby augmenting the overall liquidity pool.This comprehensive liquidity management plan encompasses various stages, including the Initial Coin Offering (ICO), Initial DEX Offering (IDO), Public and Private Sale, Exchange Listing, and Token Offering.
 
 ##### Treasury
 
@@ -196,27 +197,27 @@ The Treasury allocation within EchoTrade's token distribution represents a reser
 
 By designating ECTA tokens to the Treasury, EchoTrade demonstrates its commitment to maintaining a stable and adaptable operational environment. This strategic reserve enables the platform to swiftly respond to unforeseen challenges or capitalize on time-sensitive opportunities, ultimately contributing to the long-term sustainability and resilience of the EchoTrade ecosystem.
 
-##### Capital
+##### Strategic reserved
 
-Capital resides in a multi-signature account and is under the control of the Board of Directors, CEO, CTO, Exclusive Advisors, and Initial Investors. It is utilized for fundraising, marketing, partnerships, exchange listings, and early-stage growth of EchoTrade.
+The Strategic Reserve is securely stored in a multi-signature account, overseen collectively by the Board of Directors, CEO, CTO, Exclusive Advisors, and Initial Investors. Its primary usage encompasses responding to emergencies, fostering community expansion, and ensuring market stability.
 
 ### Evolution of ECTA Over Time
 
-As EchoTrade continues its growth trajectory and generates profits, various beneficiaries, including the Liquidity and Treasury accounts and token holders, will reap the benefits. Additionally, the release of tokens across different accounts, such as the Team and Investors, will transpire gradually over time. To bolster market stability in the face of these token releases, the profits from Liquidity and Treasury management will be harnessed to strategically generate demand. This demand management mechanism will counteract potential impacts on the ECTA token's market value. Consequently, a progressive accumulation of tokens within the Liquidity and Treasury accounts is projected over time. However, when the ECTA balance reaches a certain threshold, Liquidity or Treasury may initiate token burns to curb overexpansion.
+As EchoTrade continues its growth trajectory and generates profits, various beneficiaries, including the Strategic reserved and Treasury accounts and token holders, will reap the benefits. Additionally, the release of tokens across different accounts, such as the Team and Investors, will transpire gradually over time. To bolster market stability in the face of these token releases, the profits from Strategic reserved and Treasury management will be harnessed to strategically generate demand. This demand management mechanism will counteract potential impacts on the ECTA token's market value. Consequently, a progressive accumulation of tokens within the Strategic reserved and Treasury accounts is projected over time. However, when the ECTA balance reaches a certain threshold, Strategic reserved or Treasury may initiate token burns to curb overexpansion.
 
 ### Utility
 
-The ECTA token serves as major utility alongside of other stable token like USDT, within the EchoTrade ecosystem. it is used to staking to having some share of profits gained by the platform.
+The ECTA token serves as major utility alongside of other stable token like USDT, within the EchoTrade ecosystem. it is used to Locking to having some share of profits gained by the platform.
 
 #### Basket Trading and Profit Sharing
 
-EchoTrade offers a platform where Basket creators can manage and trade with the funds invested in their Baskets. When profitable trading occurs, the gained profit from the market is shared among the Trader (Basket creator), the Investor, and the ECTA token Stakers.
+EchoTrade offers a platform where Basket creators can manage and trade with the funds invested in their Baskets. When profitable trading occurs, the gained profit from the market is shared among the Trader (Basket creator), the Investor, and the ECTA token lockers.
 
-The ECTA token plays a pivotal role in distributing the profits gained from the trading of Baskets. These profits are proportionally shared with ECTA token holders based on their ECTA token staked balance. Holders with larger ECTA balances receive a higher share of the distributed profits, aligning rewards with the level of token ownership.
+The ECTA token plays a pivotal role in distributing the profits gained from the trading of Baskets. These profits are proportionally shared with ECTA token holders based on their ECTA token locked balance. Holders with larger ECTA balances receive a higher share of the distributed profits, aligning rewards with the level of token ownership.
 
-### Token Burning and Staking
+### Token Burning and Locking
 
-Staking and burning ECTA tokens will control the liquidity and price of the token in market. in burning, under certain conditions, a portion of ECTA tokens can be permanently removed from circulation. Additionally, considering the emphasis on long-term engagement, the staking mechanism introduced to encourage holders to lock up their tokens for a specific period in exchange for rewards and benefits.
+Locking and burning ECTA tokens will control the liquidity and price of the token in market. in burning, under certain conditions, a portion of ECTA tokens can be permanently removed from circulation. Additionally, considering the emphasis on long-term engagement, the locking mechanism introduced to encourage holders to lock up their tokens for a specific period in exchange for rewards and benefits.
 
 ### Alignment With Project Goals
 
@@ -232,7 +233,7 @@ The Tron Network boasts an extensive user base, encompassing around 180M active 
 
 Drawing from our comprehensive studies and meticulous research, our growth projections for both investors and ECTA's revenue are outlined below. For detailed numerical insights, please refer to [this link](https://docs.google.com/spreadsheets/d/17e_JzyNjLAhmHyg95optmKidv2ySa8w-kPGbMrYCFFw/edit?usp=sharing).
 
-Based on our average estimations, ECTA anticipates achieving an overall monthly revenue of approximately $400K. With a total token supply of 100M, this implies that if all tokens are staked, each token is expected to yield around 0.4 cents per month and 4.8 cents per year. This projected earning contributes to our initial token pricing strategy, set at 5 cents. In our ICO#1, we have chosen a conservative launch price of 3 cents, alongside a targeted volume of 2.5M tokens. In an optimistic scenario, after two years post-launch, each token could potentially generate a yearly return of 14.4 cents.
+Based on our average estimations, ECTA anticipates achieving an overall monthly revenue of approximately $400K. With a total token supply of 100M, this implies that if all tokens are locked, each token is expected to yield around 0.4 cents per month and 4.8 cents per year. This projected earning contributes to our initial token pricing strategy, set at 5 cents. In our ICO#1, we have chosen a conservative launch price of 3 cents, alongside a targeted volume of 2.5M tokens. In an optimistic scenario, after two years post-launch, each token could potentially generate a yearly return of 14.4 cents.
 
 These projections reflect our deep understanding of market dynamics and our commitment to building a sustainable and rewarding ecosystem for both our investors and the ECTA platform itself.
 
@@ -290,7 +291,7 @@ These projections reflect our deep understanding of market dynamics and our comm
 #### ECTA Profit sharing
 
 1. When the Baskets accumulate profits, they use their constant properties to deduct a portion of the gained profit from the SuperAdmin account, which corresponds to the ECTA address.
-2. ECTA gathers profits from each Basket and allocates them among ECTA holders who have staked their tokens.
+2. ECTA gathers profits from each Basket and allocates them among ECTA holders who have locked their tokens.
 3. Each holder's share of the profits can be withdrawn at any time, providing them with the flexibility to access their earnings.
 
 #### Withdraw
