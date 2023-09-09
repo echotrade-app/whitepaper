@@ -329,24 +329,13 @@ gantt
 
 ```
 
-### Task Checklist
-
-- [ ] ECTA on Nile testnet
-- [ ] Release Whitepaper
-- [ ] ECTA on mainnet
-- [ ] Start ICO_1: 2.5M tokens at 3&cent; for 45 days
-- [ ] Launch Platform on Nile testnet
-- [ ] Start ICO_2: 1M tokens at 6&cent;
-- [ ] List ECTA on exchanges: SunSwap, P2B, BitGet, dydx
-- [ ] First Profit Sharing
-
 ### Feature Roadmap
 
 #### ✅ MVP Product
 
 Our primary goal is to launch the MVP and establish a sustainable ecosystem for continuous growth and development. This goal has been meticulously planned and is set to be achieved by the end of 2023.
 
-#### 🕸️ ECTA Network
+#### 🕸️ EchoTrade Network
 
 Our vision is to expand our Profit Share Strategy and provide greater transparency in order and position details, enabled by blockchain technology.
 
@@ -358,9 +347,6 @@ We aim to diversify the stable coins available on our platform, allowing baskets
 
 Our plan includes offering traders the opportunity to participate in Forex markets. This expansion will open doors to a larger market capacity and increased depth.
 
-#### 🤖 AI-Powered Trader Assistant
-
-As our profits are linked to the system's overall performance, we are committed to introducing advanced technological solutions to assist traders in achieving more profitable trading strategies.
 
 ### Vision
 
