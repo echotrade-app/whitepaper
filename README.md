@@ -142,7 +142,7 @@ In this section, we will explain the economics and mechanics of our platform’s
 
 ### ECTA Token
 
-ECTA is an TRC-20 token that runs on the Tron Network. TRC-20 is a token standard that defines a set of rules and functions for creating and managing tokens on Ethereum. TRC-20 tokens are compatible with various wallets, exchanges, and DApps that support Tron.
+ECTA is an TRC-20 token that runs on the BNB Network. TRC-20 is a token standard that defines a set of rules and functions for creating and managing tokens on Ethereum. TRC-20 tokens are compatible with various wallets, exchanges, and DApps that support BNB.
 
 Total Token Supply : 100,000,000
 
@@ -225,9 +225,9 @@ The ECTA tokenomics aims to incentivize participation, investment, and engagemen
 
 ### Market
 
-The total cryptocurrency market cap stands at an impressive $1,063,343M. Notably, as ECTA's foundation is established within the Tron Network, the total market cap of Tron approximates $6,797M. With a targeted $200M capitalization from this market, our ambition aligns with leveraging ECTA's unique value proposition. This approach enables us to envision a substantial contribution to the Tron network, fueling its growth and dynamics.
+The total cryptocurrency market cap stands at an impressive $1,063,343M. Notably, as ECTA's foundation is established within the BNB Network, the total market cap of BNB approximates $6,797M. With a targeted $200M capitalization from this market, our ambition aligns with leveraging ECTA's unique value proposition. This approach enables us to envision a substantial contribution to the BNB network, fueling its growth and dynamics.
 
-The Tron Network boasts an extensive user base, encompassing around 180M active accounts. Operating on a rapid 3-second block time and transaction fees ranging from $1.4 to $2, Tron's technical characteristics make it an apt choice for our roadmap's next two years. This strategic alignment underpins our mission as we prepare for the launch of our independent network.
+The BNB Network boasts an extensive user base, encompassing around 180M active accounts. Operating on a rapid 3-second block time and transaction fees ranging from $1.4 to $2, BNB's technical characteristics make it an apt choice for our roadmap's next two years. This strategic alignment underpins our mission as we prepare for the launch of our independent network.
 
 ### Financial Estimation
 
