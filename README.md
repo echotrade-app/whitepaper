@@ -120,13 +120,6 @@ The managing company also sets some parameters and constraints for the trades an
 - The maximum loss that a trader can incur for a trade
 - Validating the profit share that a trader can offer to an investor
 
-The managing company also sets some parameters and constraints for the trades and deals on our platform, such as:
-
-- The maximum amount of funds that a trader can access from a trading pool
-- The maximum leverage that a trader can use for a trade
-- The maximum loss that a trader can incur for a trade
-- Validating the profit share that a trader can offer to an investor
-
 The managing company’s parameters and constraints are designed to protect both investors and traders from excessive losses or risks. For example:
 
 - Each trader can only access 2% of each individual investor’s money in their basket. This means that if an investor transfers $10,000 of their money from their e-wallet to our platform, only 2% of that, $200, will be available to the trader to trade with. This limits the exposure and liability of both parties.
